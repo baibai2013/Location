@@ -4,4 +4,4 @@ headshot
 dd
 
 
-[Location 1.0](itms-services://?action=download-manifest&url=https://github.com/baibai2013/Location/blob/master/location.plist)  
+[Location 1.0](https://github.com/baibai2013/Location/blob/master/location.html)  
